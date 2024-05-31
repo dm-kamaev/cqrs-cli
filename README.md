@@ -42,7 +42,7 @@ example/module/user/
 -m, --module <path> – path of module
 -f, --folder <path> – folder of Command/Query/Handler, by default is "cq"
 -i, --index <path> – name of index file with Command/Query/Handler, by default is "index.ts"
---snake-case – format naming of Command/Query/Handler
+--snake-case – enable snake case naming format of Command/Query/Handler, be default is disabled (camel case)
 ```
 
 
